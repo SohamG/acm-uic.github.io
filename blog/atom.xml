@@ -2,11 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://acm-uic.github.io/blog</id>
     <title>ACM@UIC Blog</title>
-    <updated>2021-05-02T00:00:00.000Z</updated>
+    <updated>2021-08-22T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://acm-uic.github.io/blog"/>
     <subtitle>ACM@UIC Blog</subtitle>
     <icon>https://acm-uic.github.io/img/favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome Back!]]></title>
+        <id>welcome-back-2021</id>
+        <link href="https://acm-uic.github.io/blog/welcome-back-2021"/>
+        <updated>2021-08-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It is a fresh new year, with many fresh faces which we will see in person! I hope everyone is doing well and continues to do so. A couple of updates to get the semester started!]]></summary>
+        <author>
+            <name>Christian Bingman</name>
+            <uri>https://git.christianbingman.com/ChristianBingman</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New blog 👋]]></title>
         <id>new-blog</id>
