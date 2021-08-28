@@ -13,5 +13,9 @@
         <link href="https://acm-uic.github.io/blog/new-blog"/>
         <updated>2021-05-02T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Let's see if we can all the old blog posts migrated here. 😏]]></summary>
+        <author>
+            <name>Bharat Middha</name>
+            <uri>https://github.com/bmiddha</uri>
+        </author>
     </entry>
 </feed>
