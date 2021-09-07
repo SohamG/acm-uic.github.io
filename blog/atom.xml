@@ -30,6 +30,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ACM General Body Meeting Announcement]]></title>
+        <id>gbm-fall-2021</id>
+        <link href="https://acm-uic.github.io/blog/gbm-fall-2021"/>
+        <updated>2021-06-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hi ACM members,]]></summary>
+        <author>
+            <name>Sam Effendy</name>
+            <uri>https://github.com/dejazzhands</uri>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[New blog 👋]]></title>
         <id>new-blog</id>
         <link href="https://acm-uic.github.io/blog/new-blog"/>
