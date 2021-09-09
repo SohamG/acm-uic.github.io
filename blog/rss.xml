@@ -4,9 +4,16 @@
         <title>ACM@UIC Blog</title>
         <link>https://acm-uic.github.io/blog</link>
         <description>ACM@UIC Blog</description>
-        <lastBuildDate>Sun, 29 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Sep 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ACM General Body Meeting Announcement]]></title>
+            <link>https://acm-uic.github.io/blog/gbm-fall-2021</link>
+            <guid>gbm-fall-2021</guid>
+            <pubDate>Mon, 06 Sep 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hi ACM members,]]></description>
+        </item>
         <item>
             <title><![CDATA[UIC In-Person Involvement Fair!]]></title>
             <link>https://acm-uic.github.io/blog/involvement-fair-2021</link>
@@ -20,13 +27,6 @@
             <guid>welcome-back-2021</guid>
             <pubDate>Sun, 22 Aug 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[It is a fresh new year, with many fresh faces which we will see in person! I hope everyone is doing well and continues to do so. A couple of updates to get the semester started!]]></description>
-        </item>
-        <item>
-            <title><![CDATA[ACM General Body Meeting Announcement]]></title>
-            <link>https://acm-uic.github.io/blog/gbm-fall-2021</link>
-            <guid>gbm-fall-2021</guid>
-            <pubDate>Wed, 09 Jun 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[Hi ACM members,]]></description>
         </item>
         <item>
             <title><![CDATA[New blog 👋]]></title>

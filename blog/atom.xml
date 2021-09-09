@@ -2,11 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://acm-uic.github.io/blog</id>
     <title>ACM@UIC Blog</title>
-    <updated>2021-08-29T00:00:00.000Z</updated>
+    <updated>2021-09-06T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://acm-uic.github.io/blog"/>
     <subtitle>ACM@UIC Blog</subtitle>
     <icon>https://acm-uic.github.io/img/favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[ACM General Body Meeting Announcement]]></title>
+        <id>gbm-fall-2021</id>
+        <link href="https://acm-uic.github.io/blog/gbm-fall-2021"/>
+        <updated>2021-09-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hi ACM members,]]></summary>
+        <author>
+            <name>Sam Effendy</name>
+            <uri>https://github.com/dejazzhands</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[UIC In-Person Involvement Fair!]]></title>
         <id>involvement-fair-2021</id>
@@ -27,17 +38,6 @@
         <author>
             <name>Christian Bingman</name>
             <uri>https://git.christianbingman.com/ChristianBingman</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ACM General Body Meeting Announcement]]></title>
-        <id>gbm-fall-2021</id>
-        <link href="https://acm-uic.github.io/blog/gbm-fall-2021"/>
-        <updated>2021-06-09T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Hi ACM members,]]></summary>
-        <author>
-            <name>Sam Effendy</name>
-            <uri>https://github.com/dejazzhands</uri>
         </author>
     </entry>
     <entry>
